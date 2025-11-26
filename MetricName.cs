@@ -1,0 +1,41 @@
+﻿namespace Hcb.Rnd.Pwn.Common.Constants;
+public static class MetricName
+{
+    public const string X = "X";
+    public const string Y = "Y";
+    public const string Z = "Z";
+    public const string L = "L*";
+    public const string A = "a*";
+    public const string B = "b*";
+    public const string dX = "ΔX";
+    public const string dY = "ΔY";
+    public const string dZ = "ΔZ";
+    public const string dL = "ΔL*";
+    public const string dA = "Δa*";
+    public const string dB = "Δb*";
+    public const string FourHundredFortyNm = "440nm";
+    public const string dE = "ΔE";
+    public const string dECH = "ΔE(CH)";
+    public const string SRI = "SRI";
+    public const string RSI = "RSI";
+    public const string kX = "kx";
+    public const string kY = "ky";
+    public const string C = "C*";
+    public const string dC = "ΔC*";
+    public const string H = "H*";
+    public const string dH = "ΔH*";
+    public const string hL = "HL";
+    public const string dHL = "ΔHL";
+    public const string hA = "Ha";
+    public const string dHa = "ΔHa";
+    public const string hB = "Hb";
+    public const string dHb = "ΔHb";
+    public const string HT = "HT";
+    public const string SSR = "SSR";
+    public const string InternalSSR = "Internal SSR";
+    public const string GS = "GS";
+    public const string Berger = "Berger";
+    public const string Ganz = "Ganz";
+    public const string Faz = "Faz";
+    public const string GCIE = "GCIE";
+}
